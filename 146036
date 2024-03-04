@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mariam Skoot Sheet2</title>
+</head>
+<body>
+    <dl>
+        <dt>Learn Programming</dt>
+        <dd>Learn Computer Science</dd>
+        <dd>Learn Database</dd>
+        <dt>Design</dt>
+        <dd>Learn Graphics</dd>
+        <dd>Learn Sketching</dd>
+    </dl>
+
+    <br><hr><br>
+    
+    <table border="1">
+        <thead>
+            <tr>
+            <th>Group</th>
+            <th>Avatar</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Character</th>
+            <th>Profile</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+            <td rowspan="2">Ninja</td>
+            <td><img src="Img of sheet2/4aac692f-ca21-4577-8591-b61cefb706c9.jpg" alt="logo" width="40px" height="40"></td>
+            <td><p>Osama</p><p>Mohamed</p></td>
+            <td>o1@nn.sa<hr>o1@nn.sa</td>
+            <td>&copy;</td>
+            <td><a href="profile1.html">Profile</a></td>
+            </tr>
+            
+            <tr>
+            <td><img src="Img of sheet2/be062f36-4bd6-496f-bf78-6fc416609d9d.jpg" alt="logo" width="40px" height="40"></td>
+            <td><p>Shady</p><p>Nabil</p></td>
+            <td>s@nn.sa</td>
+            <td>&trade;</td>
+            <td><a href="profile2.html">Profile</a></td>
+            </tr>
+
+            <tr>
+            <td>Monsters</td>
+            <td><img src="Img of sheet2/Quilt fabric, Largest selection of quilting fabrics- Free Quilt Patterns.jpg" alt="logo" width="40px" height="40"></td>
+            <td><p>Mohamed</p><p>Ibrahim</p></td>
+            <td>m@nn.sa</td>
+            <td>&reg;</td>
+            <td><a href="profile2.html">Profile</a></td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="5">Total Members</td>
+                <td>3</td>
+            </tr>
+        </tfoot>
+    </table>
+
+    <br><hr><br>
+
+    <table border="1">
+        <caption>Complex Table</caption>
+        <thead>
+            <tr>
+                <th>Year</th>
+                <th>Group</th>
+                <th>Language</th>
+                <th>Done</th>
+                <th>Passed</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan="5">2022</td>
+                <td rowspan="2">Elzero</td>
+                <td>HTML</td>
+                <td colspan="2">Yes</td>
+            </tr>
+            <tr>
+                <td>CSS</td>
+                <td colspan="2">Yes</td>
+            </tr>
+            <tr>
+                <td rowspan="3">Heroes</td>
+                <td>JS</td>
+                <td>Yes</td>
+                <td>No</td>
+            </tr>
+            <tr>
+                <td>PHP</td>
+                <td colspan="2">Yes</td>
+            </tr>
+            <tr>
+                <td>Python</td>
+                <td>No</td>
+                <td>No</td>
+            </tr>
+        </tbody>
+
+    </table>
+
+    <br><hr><br>
+
+    <header>
+        <p>The Page Title</p>
+        <a href="">click here</a>
+        <a href="">click here</a>
+        <a href="">click here</a>
+        <a href="">click here</a>
+    </header>
+    <br>
+    <nav>
+        <a href="">Link1</a><br>
+        <a href="">Link2</a><br>
+        <a href="">Link3</a><br>
+        <a href="">Link4</a>
+    </nav>
+    <br>
+    <main>
+        <p><p>Article1</p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, mollitia laudantium omnis ratione consectetur rerum magni beatae molestiae! Quisquam laborum voluptatem blanditiis aliquam explicabo, similique temporibus atque vitae saepe quam.</p>
+        <img src="Img of sheet2/4aac692f-ca21-4577-8591-b61cefb706c9.jpg" alt="logo" width="200" height="200"><br>
+        <a href="readmore.html">Read More</a>
+        <hr>
+        <p><p>Article2</p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, mollitia laudantium omnis ratione consectetur rerum magni beatae molestiae! Quisquam laborum voluptatem blanditiis aliquam explicabo, similique temporibus atque vitae saepe quam.</p>
+        <img src="Img of sheet2/be062f36-4bd6-496f-bf78-6fc416609d9d.jpg" alt="logo" width="200" height="200"><br>
+        <a href="readmore.html">Read More</a>
+        <hr>
+        <p><p>Article3</p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, mollitia laudantium omnis ratione consectetur rerum magni beatae molestiae! Quisquam laborum voluptatem blanditiis aliquam explicabo, similique temporibus atque vitae saepe quam.</p>
+        <img src="Img of sheet2/Quilt fabric, Largest selection of quilting fabrics- Free Quilt Patterns.jpg" alt="logo" width="200" height="200"><br>
+        <a href="readmore.html">Read More</a>
+        <br>
+        <aside>
+            <p>Categories</p>
+            <ul>
+                <li>Section 1</li>
+                <li>Section 2</li>
+                <li>Section 3</li>
+                <li>Section 4</li>
+                <li>Section 5</li>
+            </ul>
+        </aside>
+    </main>
+    <p>&copy; Copyright 2024</p>
+
+    <br><hr><br>
+
+    <div>
+        <video controls width="200" height="200" autoplay muted poster="Img of sheet2/4aac692f-ca21-4577-8591-b61cefb706c9.jpg">
+            <source src="Img of sheet2/2024-03-01 14-09-53.mkv" type="video" >
+            <source src="Img of sheet2/2024-03-01 14-09-53.MP4" type="video" >
+            <source src="Img of sheet2/2024-03-01 14-09-53.MOV" type="video" >
+
+        </video>    
+    </div>
+
+    <br><hr><br>
+
+    <form action="">
+        <label for="name">Username</label>
+        <input type="text" name="name" id="name" required><br><br>
+        <label for="pass">password</label>
+        <input type="password" name="pass" id="pass"><br><br>
+        <label for="Email">Email</label>
+        <input type="email" name="Email" id="Email" required><br><br>
+        <label for="mob">Mobile</label>
+        <input type="text" name="mob" id="mob" placeholder="+123 (456) 789"><br><br>
+        <label for="Subject">Subject</label>
+        <input type="text" name="Subject" id="Subject"><br><br>
+        <input type="submit">
+    </form>
+
+    <br><hr><br>
+
+    <form action="" method="get">
+        <label for="name">Username</label>
+        <input type="text" name="name" id="name" required min="5" max="20"><br><br>
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email" ><br><br>
+        <label for="hidden"></label>
+        <input type="hidden" name="hidden" id="hidden" value="We love engineer Abdelrahman"><br>
+        <input type="reset"><br><br>
+        <input type="submit"><br><br>
+    </form>
+
+    <br><hr><br>
+
+    <form action="">
+        <label for="select">Choose Book:</label>
+        <select name="select" id="select">
+            <option label="PHP">
+                <option value="1">v5.0</option>
+                <option value="2">v7.0</option>
+                <option value="3">v8.0</option>
+            </option>
+            <option label="Python">
+                <option value="1">v2.0</option>
+                <option value="2">v3.0</option>
+                <option value="3">v3.9</option>
+            </option>
+        </select>
+        <br><hr><br>
+        <label for="brief"></label>
+        <textarea name="brief" id="brief" cols="30" rows="10" placeholder="Write Here Why You Want to Learn Programming"></textarea>
+    </form>
+
+    <br><hr><br>
+
+    <form>
+        <label for="search">Search</label><br><br>
+        <input type="text" name="search" id="search" placeholder="Enter a search word"><br><br>
+        <label for="Upload">Upload</label><br><br>
+        <input type="file" name="Upload" id="Upload"><br><br>
+        <label for="url">URL</label><br><br>
+        <input type="url" name="url" id="url"><br><br>
+        <input type="reset" value="Empty">
+        <input type="submit" value="Save">
+    </form>
+
+    <br><hr><br>
+    
+    <form action="">
+        <label for="date">Date</label>
+        <input type="date" name="date" id="date" value="1982-10-25"><br><br>
+        <label for="month">Date</label>
+        <input type="month" name="month" id="month" value="1982-10"><br><br>
+        <input type="reset" value="Empty">
+        <input type="submit" value="Save">
+    </form>
+
+
+
+</body>
+</html>
