@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This Is The Description Of My Page">
+    <title>“My first page</title>
+    <style> </style>
+    <script> </script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <p>This is my first page</p>
+
+    <br>
+    <hr>
+    <br>
+
+    
+    <h1>Section1</h1>
+    <h3>Product1</h3>
+    <p>This Is The Paragraph Of The Product1</p>
+    <hr>
+    <h3>Product2</h3>
+    <p>This Is The Paragraph Of The Product2</p>
+    <hr>
+    <h3>Product3</h3>
+    <p>This Is The Paragraph Of The Product3</p>
+        
+    <h1>Section2</h1>
+    <h3>Product1</h3>
+    <p>This Is The Paragraph Of The Product1</p>
+    <hr>
+    <h3>Product2</h3>
+    <p>This Is The Paragraph Of The Product2</p>
+    <hr>
+    <h3>Product3</h3>
+    <p>This Is The Paragraph Of The Product3</p>
+    
+    <br>
+    <hr>
+    <br>
+
+    
+    <h1>My Page</h1>
+    <p>This Is My Page</p>
+    <p>This Is My First Work</p>
+    <h2>Section One</h2>
+    <p>This Is Section One</p>
+    
+
+    <br>
+    <hr>
+    <br>
+
+    
+    <h1>My Info</h1>
+        
+    <p> My Name is : <b>Mariam</b></p>
+    <p>Iam <b>Available</b> For Hire</p>
+    <p>My Hour Old Price is <del>10$</del> And The Price is <mark>30$</mark></p>
+    <p>Visit My Website From This Link <a href="mylink.html" target="_blank">my Link</a></p>
+    <hr>
+    <h1>Here Is Some Of My Clients</h1>
+    <img src="Img of sheet1/4aac692f-ca21-4577-8591-b61cefb706c9.jpg" alt="" height="50px" width="50px"/>
+    <img src="Img of sheet1/be062f36-4bd6-496f-bf78-6fc416609d9d.jpg" alt="" height="50px" width="50px"/>
+    <img src="Img of sheet1/Quilt fabric, Largest selection of quilting fabrics- Free Quilt Patterns.jpg" alt="" height="50px" width="50px"/>
+    <hr>
+    <h1>My Skills</h1>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <ul>
+            <li>Vuejs</li>
+            <li>Reactjs</li>
+            <li>Angular</li>
+            <ol type="1" start="4">
+                <li>v4.0</li>
+                <li>v5.0</li>
+                <li>v6.0</li>
+                <li>v7.0</li>
+                <li>v8.0</li>
+            </ol>
+            <li>Svelte</li>
+        </ul>
+        <li>Python</li>
+    </ul>
+            
+        
+    <br>
+    <hr>
+    <br>
+
+    
+    <ul>
+        <li>One</li>
+        <ol type="A" start="3">
+            <li>C</li>
+            <li>D</li>
+            <li>E</li>
+        </ol>
+        <li>Two</li>
+        <ol type="I" start="3">
+            <li>3</li>
+            <li>4</li>
+            <li>5</li>
+        </ol>
+        <li>Three</li>
+        <ol reversed type="a" start="4">
+            <li>d</li>
+            <li>c</li>
+            <li>b</li>
+        </ol> 
+    </ul>
+    
+
+</body>
+</html>
+
+
+
+
